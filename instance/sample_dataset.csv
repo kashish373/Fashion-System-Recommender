@@ -1,0 +1,17 @@
+category,pattern,material,fit,seasonality,color_hex,occasions,score
+shirt,striped,cotton,slim,summer,#1E90FF,"office,meeting",0.85
+shirt,plain,linen,regular,summer,#FFFFFF,casual,0.70
+shirt,checked,cotton,regular,all-season,#2F4F4F,office,0.78
+jeans,plain,denim,regular,all-season,#2B2B2B,casual,0.72
+trousers,plain,wool,regular,winter,#000000,office,0.83
+skirt,floral,silk,regular,spring,#FF69B4,party,0.64
+jacket,plain,leather,regular,winter,#000000,formal,0.88
+blazer,plain,wool,slim,all-season,#2F4F4F,office,0.86
+coat,plain,polyester,relaxed,winter,#696969,formal,0.80
+sneakers,plain,leather,regular,all-season,#000000,casual,0.68
+heels,plain,leather,regular,all-season,#8B0000,party,0.75
+shoes,plain,leather,regular,all-season,#000000,formal,0.82
+hoodie,graphic,cotton,relaxed,autumn,#333333,casual,0.55
+tshirt,graphic,cotton,regular,summer,#FFD700,casual,0.60
+belt,plain,leather,regular,all-season,#8B4513,office,0.58
+watch,plain,steel,regular,all-season,#C0C0C0,formal,0.71
