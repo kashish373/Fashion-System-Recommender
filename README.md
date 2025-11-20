@@ -123,3 +123,9 @@ These datasets help the system identify:
 ├── PROJECT_ANALYSIS.md
 ├── README.md
 └── requirements.txt
+
+## 👥 Contributors
+- [@Ananyab1816](https://github.com/Ananyab1816)
+- [@aaditrichandok](https://github.com/aaditrichandok)
+
+
